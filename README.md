@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently building full stack web apps with React, Node.js, Express and MongoDB<br>👯 I'm looking to collaborate on MERN stack projects and open source web apps<br>🤝 I'm looking for help with system design, TypeScript and writing cleaner, scalable code<br>🌱 I'm currently learning TypeScript, Next.js and deployment best practices<br>💬 Ask me about React, Node.js, Express, MongoDB, REST APIs and e-commerce features<br>⚡ Fun fact: I shipped payment gateway and shipment tracking features for a live jewelry store, and I'm open to Full Stack roles
+🔭 I'm currently building full stack web apps with React, Node.js, Express and MongoDB<br>👯 I'm looking to collaborate on MERN stack projects and open source web apps<br>🤝 I'm looking for help with system design, writing cleaner, scalable code<br>🌱 I'm currently learning DSA for improving my problem solving skills <br>💬 Ask me about React, Node.js, Express, MongoDB, REST APIs and e-commerce features<br>⚡ Fun fact: I shipped payment gateway and shipment tracking features for a live jewelry store, and I'm open to Full Stack roles
 
 
 ## 🌐 Socials:
